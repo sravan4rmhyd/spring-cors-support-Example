@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/sravan4rmhyd/spring-cors-support-Example.svg?branch=master)](https://travis-ci.org/sravan4rmhyd/spring-cors-support-Example)
+
 This is an example to allow cross origin supported requests using @CrossOrigin support.
 
 for testing we can run the application using mvn spring-boot:run for service, and client we can run using mvn spring-boot:run -Dserver.port=9000.
